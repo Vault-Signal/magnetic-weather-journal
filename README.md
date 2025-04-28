@@ -3,7 +3,7 @@
 A breathing space for reflection during the Earth's magnetic and solar storms.  
 Part of the **Odessa / Hive Journal** ecosystem.
 
----
+--- 
 
 ## 🌬️ About
 
